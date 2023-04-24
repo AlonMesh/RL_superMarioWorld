@@ -9,4 +9,6 @@ The training process involves running the game and collecting data on the networ
 Right now, the script only plots the network's fitness over time using matplotlib. It is still in progress and I hope I'll keep going.
 
 Heuristic fitness progress:
+
+
 ![image](https://user-images.githubusercontent.com/97172662/234115568-a26a2bc3-f351-49e0-ae46-d4a826d54ff1.png)
